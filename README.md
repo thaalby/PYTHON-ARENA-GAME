@@ -4,19 +4,6 @@ A real-time, two-player online snake battle game built with **Python** and **Pyg
 
 ---
 
-## 📸 Screenshots
-
-| Splash & Login | Lobby & Challenge |
-|---|---|
-| ![Splash](resources/screenshots/splash.png) | ![Lobby](resources/screenshots/lobby.png) |
-
-| In-Game | End Screen & Replay |
-|---|---|
-| ![Game](resources/screenshots/game.png) | ![End](resources/screenshots/end.png) |
-
-> Screenshots are from the `resources/screenshots/` folder. Add your own if not present.
-
----
 
 ## ✨ Features
 
